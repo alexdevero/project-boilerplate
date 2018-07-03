@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.rawgit.com/alexdevero/project-boilerplate/master/src/assets/project-boilerplate.png" width="135" align="center">
+  <img src="https://cdn.rawgit.com/alexdevero/project-boilerplate/master/assets/project-boilerplate.png" width="135" align="center">
   <br>
   <br>
 </p>
