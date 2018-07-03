@@ -1,0 +1,45 @@
+{
+  "name": "project-boilerplate",
+  "version": "0.0.1",
+  "description": "Default files used in my projects.",
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexdevero/project-boilerplate.git"
+  },
+  "homepage": "https://github.com/alexdevero/project-boilerplate#readme",
+  "bugs": {
+    "url": "https://github.com/alexdevero/project-boilerplate/issues"
+  },
+  "author": {
+    "name": "Alex Devero",
+    "url": "https://alexdevero.com/"
+  },
+  "contributors": [
+    {
+      "name": "",
+      "email": "",
+      "url": ""
+    }
+  ],
+  "keywords": [
+    "boilerplate",
+    "open",
+    "open-source",
+    "source"
+  ],
+  "engines": {
+    "node": ">=10.0",
+    "npm": ">=6.0",
+    "yarn": ">=1.0"
+  },
+  "main": "main.js",
+  "scripts": {
+    "build": "echo \"No script specified\"",
+    "start": "echo \"No script specified\"",
+    "test": "echo \"No script specified\""
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
